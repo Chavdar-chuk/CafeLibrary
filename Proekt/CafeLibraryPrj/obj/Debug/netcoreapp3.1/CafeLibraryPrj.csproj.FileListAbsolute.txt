@@ -1,0 +1,120 @@
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\CafeLibraryPrj.exe
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\CafeLibraryPrj.deps.json
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\CafeLibraryPrj.runtimeconfig.json
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\CafeLibraryPrj.runtimeconfig.dev.json
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\CafeLibraryPrj.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\CafeLibraryPrj.pdb
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.csproj.AssemblyReference.cache
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.AssemblyInfoInputs.cache
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.AssemblyInfo.cs
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.csproj.CoreCompileInputs.cache
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.csproj.CopyComplete
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.dll
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.pdb
+C:\Users\itkariera\source\repos\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.genruntimeconfig.cache
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\CafeLibraryPrj.exe
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\CafeLibraryPrj.deps.json
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\CafeLibraryPrj.runtimeconfig.json
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\CafeLibraryPrj.runtimeconfig.dev.json
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\CafeLibraryPrj.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\CafeLibraryPrj.pdb
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.csprojAssemblyReference.cache
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.AssemblyInfoInputs.cache
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.AssemblyInfo.cs
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.csproj.CoreCompileInputs.cache
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.csproj.CopyComplete
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.dll
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.pdb
+D:\CHAVCUK\IT kariera\Project CafeLibrary\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.genruntimeconfig.cache
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\CafeLibraryPrj.exe
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\CafeLibraryPrj.deps.json
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\CafeLibraryPrj.runtimeconfig.json
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\CafeLibraryPrj.runtimeconfig.dev.json
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\CafeLibraryPrj.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\CafeLibraryPrj.pdb
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.csprojAssemblyReference.cache
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.AssemblyInfoInputs.cache
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.AssemblyInfo.cs
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.csproj.CoreCompileInputs.cache
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.csproj.CopyComplete
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.dll
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.pdb
+J:\ITKariera\CafeLib\Project CafeLibrary\Proekt\CafeLibraryPrj\obj\Debug\netcoreapp3.1\CafeLibraryPrj.genruntimeconfig.cache
